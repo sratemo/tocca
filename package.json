@@ -1,0 +1,19 @@
+{
+  "name": "tocca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sratemo/tocca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sratemo/tocca/issues"
+  },
+  "homepage": "https://github.com/sratemo/tocca#readme"
+}
